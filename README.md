@@ -12,3 +12,5 @@ https://mtpott.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Megan
+
+### ©️2019 Run Buddy, Inc
